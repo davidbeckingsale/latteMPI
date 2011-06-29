@@ -15,7 +15,7 @@ with a command similar to:
 Provided you have ssh running, and a key exisitng in ~/.ssh/id_dsa, a
 program can be run with the following command:
 
-    `java -jar latteMPI-1.0-SNAPSHOT.jar -hostfile <path-to-hostfile> \
-             -n <number-of-processors> -className <name-of-Java-class>`
+    java -jar latteMPI-1.0-SNAPSHOT.jar -hostfile <path-to-hostfile> \
+             -n <number-of-processors> -className <name-of-Java-class>
  
 [3yp]: http://www2.warwick.ac.uk/fac/sci/dcs/teaching/modules/cs310/
